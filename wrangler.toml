@@ -1,0 +1,9 @@
+name = "tonic"
+compatibility_date = "2025-07-01"
+
+[build]
+command = "npm run build"
+cwd = "."
+
+[[build.environment_variables]]
+NODE_VERSION = "18"
