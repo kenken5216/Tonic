@@ -96,7 +96,7 @@ export default function Navigation({
             >
               <div className="h-px w-16 bg-white/20 mx-auto my-4"></div>
               <a
-                href="https://github.com/kenken5216/Endless"
+                href="https://github.com/kenken5216/Tonic"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-xs text-white/40 font-light tracking-wider uppercase hover:text-white/60 transition"
